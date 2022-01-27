@@ -1,2 +1,6 @@
 Let's see if this works
 Some Changes
+Some Changes to Branch
+Remote Changes to Branch
+Local Change to Branch
+Second Test
